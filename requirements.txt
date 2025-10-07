@@ -1,0 +1,9 @@
+# requirements.txt
+pandas
+numpy
+scipy
+scikit-learn
+requests
+lightfm
+python-dotenv
+joblib
